@@ -24,7 +24,9 @@ http://localhost:8000
 
 # Tutorial links:
 https://github.com/ourcade/phaser3-typescript-parcel-template
+
 http://phaser.io/tutorials/making-your-first-phaser-3-game
+
 https://www.youtube.com/watch?v=QXxmSbfR2aY&list=PLumYWZ2t7CRvLU1E-n6VDiOdfEeRQSXPE&index=2&t=0s
 
 
