@@ -7,8 +7,11 @@ Typescript was chosen because my background as a C developer leads me to prefer 
 
 I used Visual Studio Code as my project editor. It is my preferred editor due to the intellisense plugins. 
 You'll need to install:
+
 Node.js
+
 Node package manager
+
 npm install -g parcel-bundler
 
 # Running the example locally
